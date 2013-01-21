@@ -2,7 +2,7 @@
  *  Project: jcc newsticker
  *  Description: lightweight Newsticker
  *  Author: Martin von Loh
- *  Version: 1.2
+ *  Version: 0.1.1
  *  License: GPLv3
  */
 (function(jQuery, window, document) {
