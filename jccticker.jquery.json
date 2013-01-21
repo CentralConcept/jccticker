@@ -1,0 +1,21 @@
+{
+    "name": "jccticker",
+    "version": "0.1.0",
+    "title": "JCC Newsticker",
+    "author": {
+        "name": "Martin von Loh",
+        "url": "http://centralconcept.net"
+    },
+    "licenses": [
+        {
+            "type": "GPLv3",
+            "url": "centralconcept.net/license.txt"
+        }
+    ],
+    "dependencies": {"jquery": ">=1.3", "caret": "*"},
+    "description": "Simple lightweight Newsticker Plugin",
+    "keywords": ["newsticker", "ticker"],
+    "homepage": "http://github.com/CentralConcept/jccticker",
+    "docs": "https://github.com/CentralConcept/jccticker/blob/master/README.md",
+    "bugs": "https://github.com/CentralConcept/jccticker/issues"
+}
